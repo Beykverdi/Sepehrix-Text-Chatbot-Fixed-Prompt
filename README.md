@@ -10,7 +10,7 @@
 * Use your preferred virtual environment name instead of .venv
 
 - python -m venv .venv
-- .\\.venv\Scripts\activate
+- .venv\Scripts\activate
 - pip list
 - python -m pip install -U pip
 - python -m pip install -U groq
